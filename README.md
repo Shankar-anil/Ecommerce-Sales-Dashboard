@@ -46,5 +46,5 @@ It helps visualize year-to-date (YTD) performance, category-wise trends, and reg
 
 ---
 
-## 📎 Author
+##  Author
 **Shankar Anil**   
