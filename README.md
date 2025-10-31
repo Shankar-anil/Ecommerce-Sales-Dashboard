@@ -1,17 +1,17 @@
-# 💼 E-commerce Sales Power BI Dashboard
+#  E-commerce Sales Power BI Dashboard
 
 This Power BI dashboard provides an in-depth analysis of E-commerce sales, profitability, and customer segments across regions.  
 It helps visualize year-to-date (YTD) performance, category-wise trends, and regional sales distribution with dynamic filters.
 
 ---
 
-## 📂 Files
+##  Files
 - `EcommerceDashboard.pbix` — Power BI project file  
 - `1.png`, `2.png`, `3.png` — Dashboard screenshots (different filters and views)
 
 ---
 
-## 🖼️ Dashboard Previews
+##  Dashboard Previews
 
 | Consumer Segment | Corporate Segment | Home Office Segment |
 |------------------|-------------------|----------------------|
@@ -19,7 +19,7 @@ It helps visualize year-to-date (YTD) performance, category-wise trends, and reg
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 - **Total YTD Sales:** Up to **$5.98M**, slight **-0.55%** dip overall  
 - **YTD Profit:** **$712.64K**, showing **+8.04% growth**  
 - **YTD Quantity:** **55.4K units**, down **6.57%**  
@@ -29,7 +29,7 @@ It helps visualize year-to-date (YTD) performance, category-wise trends, and reg
 
 ---
 
-## 🌍 Dashboard Highlights
+##  Dashboard Highlights
 - KPI cards with YoY performance tracking  
 - Interactive slicers for **Segment**, **Region**, and **Category**  
 - Visual mix: Bar, Pie, and Map charts for deep insights  
@@ -38,7 +38,7 @@ It helps visualize year-to-date (YTD) performance, category-wise trends, and reg
 
 ---
 
-## 🧠 Tools & Skills Used
+##  Tools & Skills Used
 - **Power BI** — Dashboard development  
 - **Excel** — Raw data preparation  
 - **DAX** — Calculations for KPIs and YoY growth  
@@ -47,5 +47,4 @@ It helps visualize year-to-date (YTD) performance, category-wise trends, and reg
 ---
 
 ## 📎 Author
-**Shankar Anil**  
-📧 [Add your email or LinkedIn (optional)]  
+**Shankar Anil**   
